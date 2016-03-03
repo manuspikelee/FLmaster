@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FLmaster:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="FLmaster.war">
+      <element id="artifact" artifact-name="FLmaster:war exploded" />
+    </root>
+  </artifact>
+</component>
